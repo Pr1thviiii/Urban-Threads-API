@@ -1,0 +1,5 @@
+.env
+routers/__pycache__
+__pycache__
+.kilo
+.vscode
